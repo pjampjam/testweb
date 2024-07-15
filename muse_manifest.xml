@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuator.lv" resolutions="1x,2x" timestamp="1721061078224">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuator.lv" resolutions="1x,2x" timestamp="1721061914450">
   <folder name="css">
     <file name="site_global.css" crc="4217715761"/>
-    <file name="master_master-lv.css" crc="76158306" ref="index"/>
-    <file name="nomq_preview_master_master-lv.css" crc="258822395" ref="index"/>
-    <file name="index.css" crc="22661815" ref="index"/>
-    <file name="nomq_index.css" crc="4116086419" ref="index"/>
+    <file name="master_master-lv.css" crc="306774536" ref="index"/>
+    <file name="nomq_preview_master_master-lv.css" crc="416037330" ref="index"/>
+    <file name="index.css" crc="3791854901" ref="index"/>
+    <file name="nomq_index.css" crc="493277357" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="roboto-bold.woff" crc="187756555"/>
@@ -147,6 +147,12 @@
     <file name="splash73x78_2x.png" crc="3868271108" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u8433.png" crc="3989986975" ref="index"/>
+    <file name="u8433_2x.png" crc="3936835921" ref="index"/>
+    <file name="u8433-r.png" crc="4155931262" ref="index"/>
+    <file name="u8433-r_2x.png" crc="211425736" ref="index"/>
+    <file name="u8433-m.png" crc="4155931262" ref="index"/>
+    <file name="u8433-m_2x.png" crc="211425736" ref="index"/>
     <file name="splash.png" crc="229762976" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -160,5 +166,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4276254051" seo="true" mt="1721061064284" redirect="true"/>
+  <file name="index.html" crc="4146847325" seo="true" mt="1721061890030" redirect="true"/>
 </manifest>
