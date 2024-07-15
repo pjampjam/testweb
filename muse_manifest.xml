@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuator.lv" resolutions="1x,2x" timestamp="1721067706025">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuator.lv" resolutions="1x,2x" timestamp="1721068244484">
   <folder name="css">
     <file name="site_global.css" crc="125038031"/>
-    <file name="master_master-en.css" crc="54445182" ref="en"/>
-    <file name="nomq_preview_master_master-en.css" crc="4060531380" ref="en"/>
-    <file name="master_master-ru.css" crc="4229974654" ref="ru"/>
-    <file name="nomq_preview_master_master-ru.css" crc="443805453" ref="ru"/>
-    <file name="master_master-lv.css" crc="3765456126" ref="index"/>
-    <file name="nomq_preview_master_master-lv.css" crc="481560384" ref="index"/>
-    <file name="ru.css" crc="4194393596" ref="ru"/>
-    <file name="nomq_ru.css" crc="22320371" ref="ru"/>
-    <file name="en.css" crc="4009015073" ref="en"/>
-    <file name="nomq_en.css" crc="212171194" ref="en"/>
-    <file name="index.css" crc="353512110" ref="index"/>
-    <file name="nomq_index.css" crc="461703277" ref="index"/>
+    <file name="master_master-lv.css" crc="268178217" ref="index"/>
+    <file name="nomq_preview_master_master-lv.css" crc="4001414118" ref="index"/>
+    <file name="master_master-ru.css" crc="200071253" ref="ru"/>
+    <file name="nomq_preview_master_master-ru.css" crc="317517767" ref="ru"/>
+    <file name="master_master-en.css" crc="485092562" ref="en"/>
+    <file name="nomq_preview_master_master-en.css" crc="4204382846" ref="en"/>
+    <file name="index.css" crc="3877071437" ref="index"/>
+    <file name="nomq_index.css" crc="223767092" ref="index"/>
+    <file name="ru.css" crc="19675339" ref="ru"/>
+    <file name="nomq_ru.css" crc="4152114507" ref="ru"/>
+    <file name="en.css" crc="3869045563" ref="en"/>
+    <file name="nomq_en.css" crc="4083997847" ref="en"/>
   </folder>
   <folder name="fonts">
-    <file name="roboto-bold.woff" crc="187756555"/>
-    <file name="roboto-bold.eot" crc="97803320"/>
-    <file name="roboto-bold.svg" crc="472573988"/>
     <file name="roboto-medium.woff" crc="4199445697"/>
     <file name="roboto-medium.eot" crc="13612662"/>
     <file name="roboto-medium.svg" crc="4156139151"/>
+    <file name="roboto-bold.woff" crc="187756555"/>
+    <file name="roboto-bold.eot" crc="97803320"/>
+    <file name="roboto-bold.svg" crc="472573988"/>
     <file name="roboto-black.woff" crc="194097446"/>
     <file name="roboto-black.eot" crc="56648767"/>
     <file name="roboto-black.svg" crc="3995417189"/>
@@ -322,7 +322,7 @@
     <file name="u13906-m.png" crc="4155931262" ref="en"/>
     <file name="u13906-m_2x.png" crc="211425736" ref="en"/>
   </folder>
-  <file name="index.html" crc="228064539" seo="true" mt="1721064715655" redirect="true"/>
-  <file name="ru.html" crc="34317170" seo="true" mt="1721067571409" redirect="true"/>
-  <file name="en.html" crc="477827221" seo="true" mt="1721067686299" redirect="true"/>
+  <file name="index.html" crc="343896885" seo="true" mt="1721064715655" redirect="true"/>
+  <file name="ru.html" crc="3847102012" seo="true" mt="1721068214281" redirect="true"/>
+  <file name="en.html" crc="3916006792" seo="true" mt="1721067686299" redirect="true"/>
 </manifest>
