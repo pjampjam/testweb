@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuator.lv" resolutions="1x,2x" timestamp="1721061914450">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuator.lv" resolutions="1x,2x" timestamp="1721062909657">
   <folder name="css">
     <file name="site_global.css" crc="4217715761"/>
-    <file name="master_master-lv.css" crc="306774536" ref="index"/>
-    <file name="nomq_preview_master_master-lv.css" crc="416037330" ref="index"/>
-    <file name="index.css" crc="3791854901" ref="index"/>
-    <file name="nomq_index.css" crc="493277357" ref="index"/>
+    <file name="master_master-lv.css" crc="36146679" ref="index"/>
+    <file name="nomq_preview_master_master-lv.css" crc="481560384" ref="index"/>
+    <file name="index.css" crc="4061429994" ref="index"/>
+    <file name="nomq_index.css" crc="461703277" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="roboto-bold.woff" crc="187756555"/>
@@ -166,5 +166,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4146847325" seo="true" mt="1721061890030" redirect="true"/>
+  <file name="index.html" crc="474934671" seo="true" mt="1721062887245" redirect="true"/>
 </manifest>
