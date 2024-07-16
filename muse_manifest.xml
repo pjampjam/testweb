@@ -1,32 +1,32 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuator.lv" resolutions="1x,2x" timestamp="1721068244484">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuators.lv" resolutions="1x" timestamp="1714065868131">
   <folder name="css">
-    <file name="site_global.css" crc="125038031"/>
-    <file name="master_master-lv.css" crc="268178217" ref="index"/>
-    <file name="nomq_preview_master_master-lv.css" crc="4001414118" ref="index"/>
-    <file name="master_master-ru.css" crc="200071253" ref="ru"/>
-    <file name="nomq_preview_master_master-ru.css" crc="317517767" ref="ru"/>
-    <file name="master_master-en.css" crc="485092562" ref="en"/>
-    <file name="nomq_preview_master_master-en.css" crc="4204382846" ref="en"/>
-    <file name="index.css" crc="3877071437" ref="index"/>
-    <file name="nomq_index.css" crc="223767092" ref="index"/>
-    <file name="ru.css" crc="19675339" ref="ru"/>
-    <file name="nomq_ru.css" crc="4152114507" ref="ru"/>
-    <file name="en.css" crc="3869045563" ref="en"/>
-    <file name="nomq_en.css" crc="4083997847" ref="en"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4020746851" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3938388051" ref="index"/>
+    <file name="master_b-master.css" crc="390271454" ref="ru"/>
+    <file name="nomq_preview_master_b-master.css" crc="479848576" ref="ru"/>
+    <file name="master_c-master.css" crc="56805018" ref="en"/>
+    <file name="nomq_preview_master_c-master.css" crc="3926390634" ref="en"/>
+    <file name="index.css" crc="246091089" ref="index"/>
+    <file name="nomq_index.css" crc="413885726" ref="index"/>
+    <file name="en.css" crc="71579744" ref="en"/>
+    <file name="nomq_en.css" crc="4270834277" ref="en"/>
+    <file name="ru.css" crc="195706290" ref="ru"/>
+    <file name="nomq_ru.css" crc="3868028336" ref="ru"/>
   </folder>
   <folder name="fonts">
-    <file name="roboto-medium.woff" crc="4199445697"/>
-    <file name="roboto-medium.eot" crc="13612662"/>
-    <file name="roboto-medium.svg" crc="4156139151"/>
-    <file name="roboto-bold.woff" crc="187756555"/>
-    <file name="roboto-bold.eot" crc="97803320"/>
-    <file name="roboto-bold.svg" crc="472573988"/>
-    <file name="roboto-black.woff" crc="194097446"/>
-    <file name="roboto-black.eot" crc="56648767"/>
-    <file name="roboto-black.svg" crc="3995417189"/>
-    <file name="roboto-regular.woff" crc="3938957035"/>
-    <file name="roboto-regular.eot" crc="484186143"/>
-    <file name="roboto-regular.svg" crc="3888912819"/>
+    <file name="notosans-regular.woff" crc="4043041365"/>
+    <file name="notosans-regular.eot" crc="4069028854"/>
+    <file name="notosans-regular.svg" crc="159736938"/>
+    <file name="notosans-bold.woff" crc="203707214"/>
+    <file name="notosans-bold.eot" crc="4259074922"/>
+    <file name="notosans-bold.svg" crc="144440139"/>
+    <file name="notosans-medium.woff" crc="259739909"/>
+    <file name="notosans-medium.eot" crc="3817867704"/>
+    <file name="notosans-medium.svg" crc="89287976"/>
+    <file name="notosans-light.woff" crc="505282615"/>
+    <file name="notosans-light.eot" crc="4086212131"/>
+    <file name="notosans-light.svg" crc="162590918"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ru:en"/>
@@ -34,295 +34,325 @@
     <file name="whatinput.js" crc="86476730" ref="index:ru:en"/>
     <file name="museconfig.js" crc="3936894949" ref="index:ru:en"/>
     <file name="jquery.watch.js" crc="522499760" ref="index:ru:en"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index:ru:en"/>
     <file name="webpro.js" crc="3856315280" ref="index:ru:en"/>
     <file name="musewpslideshow.js" crc="244150766" ref="index:ru:en"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="index:ru:en"/>
     <file name="touchswipe.js" crc="3888935200" ref="index:ru:en"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:ru:en"/>
     <file name="jquery.museresponsive.js" crc="95814420" ref="index:ru:en"/>
     <file name="require.js" crc="4177726516" ref="index:ru:en"/>
   </folder>
   <folder name="images">
-    <file name="lv-favicon.ico" crc="247596705" ref="index"/>
+    <file name="favicon.ico" crc="4100786131" ref="index"/>
+    <file name="ikonas lowres updated2-lv-15-u6792.png" crc="3788375944" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:ru:en"/>
-    <file name="u170.png" crc="4051815933" ref="index"/>
-    <file name="u170_2x.png" crc="78372445" ref="index"/>
-    <file name="u170-r.png" crc="233389014" ref="index"/>
-    <file name="u170-r_2x.png" crc="4121802081" ref="index"/>
-    <file name="u170-m.png" crc="233389014" ref="index"/>
-    <file name="u170-m_2x.png" crc="4121802081" ref="index"/>
-    <file name="kravasevakuatorlv 0.jpg" crc="4120158805" seo="true" ref="index:ru:en">
+    <file name="kravasevakuatorlv-01.jpg" crc="4103220017" seo="true" ref="index:ru:en">
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
+    <file name="kravasevakuatorlv-03.jpg" crc="428688247" seo="true" ref="index:ru:en">
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+    </file>
+    <file name="kravasevakuatorlv-05.jpg" crc="3994690808" seo="true" ref="index:ru:en">
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+    </file>
+    <file name="kravasevakuatorlv-08.jpg" crc="3782305363" seo="true" ref="index:ru:en">
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+    </file>
+    <file name="kravasevakuatorlv-09.jpg" crc="419324799" seo="true" ref="index:ru:en">
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+    </file>
+    <file name="kravasevakuatorlv-10.jpg" crc="4025164178" seo="true" ref="index:ru:en">
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="грузовой-эвакуатор-247" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="cargo-tow-truck-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="gruzovoj-evakuator-247" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:ru:en"/>
+    <file name="u2572-4.png" crc="78092929" ref="index"/>
+    <file name="u21162.png" crc="4081544587" ref="index"/>
+    <file name="u21162-r.png" crc="196482475" ref="index"/>
+    <file name="u2572-42.png" crc="78092929" ref="index"/>
+    <file name="u2572-43.png" crc="78092929" ref="index"/>
+    <file name="ikonas lowres updated-ru-u4634.png" crc="310007102" ref="ru"/>
+    <file name="u5873-4.png" crc="4134123206" ref="ru"/>
+    <file name="u21140.png" crc="4081544587" ref="ru"/>
+    <file name="u21140-r.png" crc="196482475" ref="ru"/>
+    <file name="u5873-42.png" crc="491302709" ref="ru"/>
+    <file name="u5873-43.png" crc="491302709" ref="ru"/>
+    <file name="ikonas lowres updated-en-u4610.png" crc="516630698" ref="en"/>
+    <file name="u6401-4.png" crc="78092929" ref="en"/>
+    <file name="u21127.png" crc="4081544587" ref="en"/>
+    <file name="u21127-r.png" crc="196482475" ref="en"/>
+    <file name="u6401-42.png" crc="78092929" ref="en"/>
+    <file name="u6401-43.png" crc="78092929" ref="en"/>
     <file name="kravasevakuatorlv 1.jpg" crc="4248975628" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="kravasevakuatorlv 2.jpg" crc="4146085364" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="kravasevakuatorlv 3.jpg" crc="4036395155" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="kravasevakuatorlv 4.jpg" crc="499886379" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="kravasevakuatorlv 5.jpg" crc="518092194" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
-    <file name="kravasevakuatorlv-01.jpg" crc="4103220017" seo="true" ref="index:ru:en">
+    <file name="kravasevakuatorlv 0.jpg" crc="4120158805" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
-    <file name="kravasevakuatorlv-03.jpg" crc="428688247" seo="true" ref="index:ru:en">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-    </file>
-    <file name="kravasevakuatorlv-05.jpg" crc="3994690808" seo="true" ref="index:ru:en">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-    </file>
-    <file name="kravasevakuatorlv-08.jpg" crc="3782305363" seo="true" ref="index:ru:en">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-    </file>
-    <file name="kravasevakuatorlv-09.jpg" crc="419324799" seo="true" ref="index:ru:en">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-    </file>
-    <file name="kravasevakuatorlv-10.jpg" crc="4025164178" seo="true" ref="index:ru:en">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="index:ru:en"/>
-    <file name="splash90x95.png" crc="4208279365" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="splash90x95_2x.png" crc="3868271108" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="splash51x54.png" crc="203379796" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="splash51x54_2x.png" crc="492191858" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="splash73x78.png" crc="421597449" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="splash73x78_2x.png" crc="3868271108" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u8433.png" crc="3989986975" ref="index"/>
-    <file name="u8433_2x.png" crc="3936835921" ref="index"/>
-    <file name="u8433-r.png" crc="4155931262" ref="index"/>
-    <file name="u8433-r_2x.png" crc="211425736" ref="index"/>
-    <file name="u8433-m.png" crc="4155931262" ref="index"/>
-    <file name="u8433-m_2x.png" crc="211425736" ref="index"/>
-    <file name="splash.png" crc="229762976" seo="true" ref="index:ru:en">
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="en" alt=""/>
-    </file>
-    <file name="splash_2x.png" crc="3868271108" seo="true" ref="index:ru:en">
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="en" alt=""/>
-    </file>
-    <file name="splash86x91.png" crc="240673304" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="splash86x91_2x.png" crc="3868271108" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u12431.png" crc="4051815933" ref="ru"/>
-    <file name="u12431_2x.png" crc="78372445" ref="ru"/>
-    <file name="u12431-r.png" crc="233389014" ref="ru"/>
-    <file name="u12431-r_2x.png" crc="4121802081" ref="ru"/>
-    <file name="u12431-m.png" crc="233389014" ref="ru"/>
-    <file name="u12431-m_2x.png" crc="4121802081" ref="ru"/>
-    <file name="u12547.png" crc="3989986975" ref="ru"/>
-    <file name="u12547_2x.png" crc="3936835921" ref="ru"/>
-    <file name="u12547-r.png" crc="4155931262" ref="ru"/>
-    <file name="u12547-r_2x.png" crc="211425736" ref="ru"/>
-    <file name="u12547-m.png" crc="4155931262" ref="ru"/>
-    <file name="u12547-m_2x.png" crc="211425736" ref="ru"/>
-    <file name="u13790.png" crc="4051815933" ref="en"/>
-    <file name="u13790_2x.png" crc="78372445" ref="en"/>
-    <file name="u13790-r.png" crc="233389014" ref="en"/>
-    <file name="u13790-r_2x.png" crc="4121802081" ref="en"/>
-    <file name="u13790-m.png" crc="233389014" ref="en"/>
-    <file name="u13790-m_2x.png" crc="4121802081" ref="en"/>
-    <file name="u13906.png" crc="3989986975" ref="en"/>
-    <file name="u13906_2x.png" crc="3936835921" ref="en"/>
-    <file name="u13906-r.png" crc="4155931262" ref="en"/>
-    <file name="u13906-r_2x.png" crc="211425736" ref="en"/>
-    <file name="u13906-m.png" crc="4155931262" ref="en"/>
-    <file name="u13906-m_2x.png" crc="211425736" ref="en"/>
   </folder>
-  <file name="index.html" crc="343896885" seo="true" mt="1721064715655" redirect="true"/>
-  <file name="ru.html" crc="3847102012" seo="true" mt="1721068214281" redirect="true"/>
-  <file name="en.html" crc="3916006792" seo="true" mt="1721067686299" redirect="true"/>
+  <file name="index.html" crc="4274569838" seo="true" mt="1714065808616" redirect="true"/>
+  <file name="ru.html" crc="301947352" seo="true" mt="1714065840249" redirect="true"/>
+  <file name="en.html" crc="484931765" seo="true" mt="1714065855376" redirect="true"/>
 </manifest>
